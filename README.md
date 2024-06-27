@@ -15,14 +15,15 @@ This GitHub profile is a collection of my projects, experiments, and coursework 
 - **Programming Languages:** 
   - Python
   - JavaScript
-  - Java
-  - C++
+    
 - **Web Development:** 
   - HTML
   - CSS
   - Django
+    
 - **Database Management:** 
   - MySQL
+    
 - **Tools & Technologies:** 
   - Git & GitHub
 
